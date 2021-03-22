@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, I'm Railson Mateus de Sousa Silva  👋
 
-<!--
-**Railson-Mateus/Railson-Mateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Railson-Mateus)](https://github.com/Railson-Mateus)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Railson:seu_email)](mailto:raylsomatheus@hotmail.com)
 
-Here are some ideas to get you started:
+### About me
+* :man_student: Studying Systems analysis and development  - IFPB, Cajazeiras
+* :book: I'm currently learning JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of interest :books:
+* __Games developer__ :joystick:
+* __Inteligencia Artificial__
+* __Front-end developer__ :computer:
